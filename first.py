@@ -2,7 +2,7 @@ import subprocess
 
 commands = [
     "git add .",
-    "git commit -m \"update from python script\"",
+    "git commit -m \"\"",
     "git push origin main"
 ]
 
